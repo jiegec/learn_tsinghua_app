@@ -1,6 +1,6 @@
 # Learn Tsinghua App：网络学堂 PC 端 App
 
-![Icon](build/icon.png)
+<img src="build/icon.png" alt="drawing" width="100"/>
 
 本软件相比于其他网络学堂客户端，有如下优势：
 
