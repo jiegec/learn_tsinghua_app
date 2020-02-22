@@ -1,15 +1,25 @@
 {
   "name": "learn_tsinghua_app",
+  "description": "A Standalone App for learn.tsinghua",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   },
   "license": "MIT",
   "dependencies": {
     "electron": "8.0.0"
   },
   "devDependencies": {
+    "electron-builder": "^22.3.2",
     "electron-packager": "^14.2.1"
+  },
+  "build": {
+    "appId": "ch.jiege.learn_tsinghua_app",
+    "mac": {
+      "category": "education"
+    }
   }
 }
