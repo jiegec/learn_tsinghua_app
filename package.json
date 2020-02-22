@@ -1,0 +1,12 @@
+{
+  "name": "learn_tsinghua_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron": "8.0.0"
+  }
+}
