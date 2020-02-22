@@ -19,7 +19,7 @@
     "electron-builder-notarize": "^1.1.2"
   },
   "build": {
-    "appId": "ch.jiege.learn_tsinghua_app",
+    "appId": "ch.jiege.learn-tsinghua-app",
     "mac": {
       "category": "education"
     },
