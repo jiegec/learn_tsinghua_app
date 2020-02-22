@@ -6,3 +6,12 @@
 2. 代码十分简短，任何人都可以进行安全审计
 
 ## 下载方式
+
+
+## 开发方式
+
+```shell
+git clone https://github.com/jiegec/learn_tsinghua_app
+npm install
+npm start
+```
