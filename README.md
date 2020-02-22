@@ -1,5 +1,7 @@
 # Learn Tsinghua App：网络学堂 PC 端 App
 
+![Icon](build/icon.png)
+
 本软件相比于其他网络学堂客户端，有如下优势：
 
 1. 不会保存任何帐号和密码
