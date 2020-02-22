@@ -9,11 +9,10 @@
     "dist": "electron-builder"
   },
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "electron": "8.0.0",
-    "electron-builder": "^22.3.2",
+    "electron-builder": "^22.3.2"
   },
   "build": {
     "appId": "ch.jiege.learn_tsinghua_app",
