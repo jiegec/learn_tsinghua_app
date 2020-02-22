@@ -1,7 +1,10 @@
 {
   "name": "learn_tsinghua_app",
   "description": "A Standalone App for learn.tsinghua",
-  "version": "1.0.0",
+  "author": {
+    "name": "Jiajie Chen"
+  },
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "start": "electron .",
