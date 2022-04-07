@@ -14,9 +14,9 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "electron": "13.6.6",
-    "electron-builder": "^22.4.1",
-    "electron-builder-notarize": "^1.1.2"
+    "electron": "^18.0.2",
+    "electron-builder": "^22.14.13",
+    "electron-builder-notarize": "^1.4.0"
   },
   "build": {
     "appId": "ch.jiege.learn-tsinghua-app",
